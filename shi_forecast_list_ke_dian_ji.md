@@ -1,6 +1,6 @@
 # 使Forecast list可点击
 
-作为一个真正的app，当前列表的每一个item布局应该做一些工作。第一件事就是创建一个合适的XML，能符合我们的需要就行。我们希望显示一个图标，日期，描述以及最高和最低温度。所以让我们创建一个名为`item_forecast.xml`的layout：
+作为一个真正的app，当前列表的每一个item布局应该做一些工作。第一件事就是创建一个合适的XML，能符合我们的需要就行。我们希望显示一个图标，日期，描述以及最高和最低高度。所以让我们创建一个名为`item_forecast.xml`的layout：
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
